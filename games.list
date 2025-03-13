@@ -1,7 +1,7 @@
-DOMAIN,asia.battle.net
-DOMAIN,europe.battle.net
-DOMAIN,useast.battle.net
-DOMAIN,uswest.battle.net
+DOMAIN-SUFFIX,asia.battle.net
+DOMAIN-SUFFIX,europe.battle.net
+DOMAIN-SUFFIX,useast.battle.net
+DOMAIN-SUFFIX,uswest.battle.net
 DOMAIN-SUFFIX,geforce.cn
 DOMAIN-SUFFIX,geforce.co.kr
 DOMAIN-SUFFIX,geforce.co.uk
